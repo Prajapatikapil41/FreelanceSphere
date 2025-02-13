@@ -15,7 +15,26 @@ CDAC Project
 * As an authenticated user, I can Check project completion date when freelancer is hired.
 * As an authenticated user, I can Create and edit profile information.
 
-> For Detailed Description check [Project Report](https://docs.google.com/document/d/1oX7vKfWftTV8vgo_s_IeOpl5158lZsKEFVypW7q8KHs/edit?usp=sharing)
+> For Detailed Description check [Project Report]
+(https://drive.google.com/drive/folders/1zLhyoVT7WW452FJYJ3t9aS_jtHo98nPA?usp=sharing)
+
+## SHREENSHOTS - 
+1. Landing Page: Showcasing platform features.![image](https://github.com/user-attachments/assets/940c6706-62b4-497d-aae0-fdf0d0391530)
+
+2. Signup Page:  User registration interface.
+ ![image](https://github.com/user-attachments/assets/9d519c05-c2b4-4d8d-ba49-c4cd2f711912)
+
+3. Login Page: User authentication interface.
+ ![image](https://github.com/user-attachments/assets/131bc1c8-4d5c-4b6f-a481-17e6bd392766)
+
+4. Freelancer Dashboard: Tools for profile and earnings management.
+ ![image](https://github.com/user-attachments/assets/6f18984c-e567-4cec-991a-09f87a752771)
+
+5. Customer Booking Page: Service browsing and booking.
+![image](https://github.com/user-attachments/assets/ef5f7772-302a-4009-b92b-5141c093d06a)
+
+6. Order Summary: Details post-booking.
+ ![image](https://github.com/user-attachments/assets/cdb76940-0d88-4dd8-8b1b-b1f62423d3cf)
 
 
 ## System Design
@@ -75,12 +94,15 @@ Bid : To store bids
 
 
 ### Steps to run application:
+•	Create schema called freelancer
+•	import as maven project
+•	install all dependencies
+•	run the Main class
 
-* Create database schema 
-* Go to path : react-client
-* npm install
-* npm start 
-> This will start ReactJS server on 3000
+### Steps to run React side:
+•	run npm install
+•	run npm start
+
 
 ## 📝 Author
 [<img src="https://avatars.githubusercontent.com/u/81869156?s=400&u=ff6de7017b51e4d96dbfb1ae39c7a459d5e13ea8&v=4" align="right" height="100">](https://github.com/Prajapatikapil41)
