@@ -44,7 +44,7 @@ Bid : To store bids
 
 
 ## System Architecture
-![Architecture](/architecture.jpg)
+![Architecture](https://github.com/Prajapatikapil41/FreelanceSphere/blob/main/architecture.jpg)
 
 
 ### Technology stack
