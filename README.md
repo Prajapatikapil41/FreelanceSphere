@@ -107,9 +107,12 @@ Bid : To store bids
 ## 📝 Author
 [<img src="https://avatars.githubusercontent.com/u/81869156?s=400&u=ff6de7017b51e4d96dbfb1ae39c7a459d5e13ea8&v=4" align="right" height="100">](https://github.com/Prajapatikapil41)
 
-[<img src="![IMG-20241128-WA0009](https://github.com/user-attachments/assets/fab2890d-4388-4e93-9ce3-9826e9e36bd9)
-" align="right" height="100">](https://github.com/Gupta24Divyanshu)
+[<img src="![IMG-20241128-WA0009](https://github.com/user-attachments/assets/fab2890d-4388-4e93-9ce3-9826e9e36bd9)" align="right" height="100">](https://github.com/Gupta24Divyanshu)
+
+[<img src="https://avatars.githubusercontent.com/u/122085918?v=4" align="right" height="100">](https://github.com/HarshdeepMalviya)
 
 ##### Kapil Prajapati <kbd> [Github](https://github.com/Prajapatikapil41) / [LinkedIn](https://www.linkedin.com/in/kapil-prajapati-7ba4b51b7/) / [E-Mail](kapilprajapati0403@gmail.com)</kbd>
 
 ##### Divyanshu Gupta <kbd> [Github](https://github.com/Gupta24Divyanshu) / [LinkedIn](https://www.linkedin.com/in/divyanshu-gupta-dev670/) / [E-Mail](divyanshuofficial24@gmail.com)</kbd>
+
+##### Harshdeep Malviya <kbd> [Github](https://github.com/HarshdeepMalviya) / [LinkedIn](https://www.linkedin.com/in/harshdeep-malviya-5a3506241/) / [E-Mail](harshdeepmalviya08@gmail.com)</kbd>
