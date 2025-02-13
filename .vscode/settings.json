@@ -1,0 +1,6 @@
+{
+    "FSharp.suggestGitignore": false,
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "Codegeex.RepoIndex": true,
+    "java.compile.nullAnalysis.mode": "automatic"
+}
